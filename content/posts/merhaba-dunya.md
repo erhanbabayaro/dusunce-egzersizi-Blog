@@ -1,7 +1,7 @@
 ---
 title: "Merhaba Dünya"
 date: 2020-01-06T15:35:19+03:00
-draft: true
+draft: false
 ---
 
 ### Merhaba Dünya,
